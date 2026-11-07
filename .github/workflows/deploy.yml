@@ -1,0 +1,38 @@
+name: Deploy Digaptics to Production VPS
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    name: Build & Deploy to Hostinger VPS
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Build Production Assets
+        run: npm run build
+
+      - name: Deploy to Hostinger VPS via SSH
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.HOSTINGER_VPS_IP }}
+          username: root
+          key: ${{ secrets.HOSTINGER_SSH_KEY }}
+          script: |
+            cd /var/www/digaptics.com/repo
+            git pull origin main
+            npm install
+            npm run build
+            systemctl reload nginx
