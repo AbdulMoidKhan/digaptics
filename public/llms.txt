@@ -1,15 +1,17 @@
 # Digaptics
 
+Business-Name: Digaptics LLC
+Brand-Name: Digaptics
+Location: 200 South Wacker Drive, Suite 3100, Chicago, IL 60606, United States
+Website: https://digaptics.com/
+Contact: connect@digaptics.com
+Growth: growth@digaptics.com
+Phone: +1 (630) 481-6122
+
 > Chicago Digital Agency providing marketing, web & app development, design & print, photography & videography, business process outsourcing (BPO), and ecommerce solutions.
 
-- Location: 200 South Wacker Drive, Suite 3100, Chicago, IL 60606, United States
-- Website: https://digaptics.com
-- Contact Email: connect@digaptics.com
-- Management & Growth: growth@digaptics.com
-- Phone: +1 (630) 481-6122
-
 ## Overview
-Digaptics is a full-service digital agency operating in Chicago and serving clients nationwide across the United States. We unify seven core disciplines under one strategic roof: Digital Marketing, Web & Custom Software Development, Printing & Physical Collateral, Photography & Videography, Business Process Outsourcing (BPO), Industry-Specific Solutions, and Enterprise Ecommerce Management.
+Digaptics LLC is a full-service digital agency operating in Chicago and serving clients nationwide across the United States. We unify seven core disciplines under one strategic roof: Digital Marketing, Web & Custom Software Development, Printing & Physical Collateral, Photography & Videography, Business Process Outsourcing (BPO), Industry-Specific Solutions, and Enterprise Ecommerce Management.
 
 ## Core Services & Families
 - Digital Marketing: SEO Audits, PPC & Paid Media Management, Social Media Management, Content Strategy, Performance Marketing, Digital Reputation Management.

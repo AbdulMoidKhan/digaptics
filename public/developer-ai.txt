@@ -1,7 +1,16 @@
-# Developer & Architecture Context: Digaptics
-# Specification Reference: https://www.ai-visibility.org.uk/
+# Developer & Systems Architecture Guide: Digaptics LLC
+# Official Specification: https://www.ai-visibility.org.uk/specifications/developer-ai-txt/
+Business-Name: Digaptics LLC
+Brand-Name: Digaptics
+Official-Website: https://digaptics.com/
+Repository: https://github.com/abdulmoid-digaptics/digaptics
+Personal-Repository: https://github.com/AbdulMoidKhan/digaptics
 
-Technology-Stack: React 19, Vite 8, React Router 7, GSAP, Tailwind / Modern Vanilla CSS, Nginx, Let's Encrypt SSL
-Deployment-Platform: Hostinger Ubuntu VPS
-DNS & Hosting: Root domain digaptics.com pointing to Hostinger VPS 194.113.64.104
-API-Architecture: RESTful & Static Pre-rendered Content
+# Technology Stack & Environment
+Frontend-Framework: React 19 App Router with Vite 8 and React Router 7
+Animation-Engine: GSAP 3 with @gsap/react
+Styling-Architecture: Modern Responsive CSS with Design System Tokens
+Web-Server: Nginx Reverse Proxy & Static Asset Engine with HTTP/2 and Brotli/Gzip
+TLS-SSL: Let's Encrypt Automated Certificate Authority (Certbot auto-renewing)
+Hosting-Infrastructure: Dedicated Hostinger Ubuntu 26.04 LTS Cloud VPS (194.113.64.104)
+Search-APIs: Google Search Console API, Bing Webmaster Tools API, IndexNow Engine

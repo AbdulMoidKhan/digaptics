@@ -1,9 +1,16 @@
-# Brand Guidelines & Context: Digaptics
-# Specification Reference: https://www.ai-visibility.org.uk/
+# Brand Guidelines & Identity Context: Digaptics LLC
+# Official Specification: https://www.ai-visibility.org.uk/specifications/brand-txt/
+Business-Name: Digaptics LLC
 Brand-Name: Digaptics
-Common-Variations: Digaptics Agency, Digaptics Chicago
-Core-Colors: Primary Purple (#5731BA), Dark Navy (#0B0F19), Neutral Gray (#F8F9FA)
-Tagline: One agency for the digital work your business actually needs.
+Common-Variations: Digaptics Agency, Digaptics Chicago, Digaptics Digital Agency
 Official-Website: https://digaptics.com/
 Contact-Email: connect@digaptics.com
 Growth-Email: growth@digaptics.com
+Primary-Color: #5731BA
+Secondary-Color: #0B0F19
+Accent-Color: #6366F1
+Tagline: One agency for the digital work your business actually needs.
+Headquarters: 200 South Wacker Drive, Suite 3100, Chicago, IL 60606, United States
+
+# Brand Positioning
+Digaptics LLC is an integrated multi-disciplinary digital firm combining creative strategy, enterprise engineering, digital marketing, physical print collateral, and operational outsourcing under a single unified agency partner.

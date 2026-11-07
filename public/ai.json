@@ -1,6 +1,8 @@
 {
   "$schema": "https://www.ai-visibility.org.uk/schemas/ai.json",
+  "businessName": "Digaptics LLC",
   "name": "Digaptics",
+  "brandName": "Digaptics",
   "url": "https://digaptics.com/",
   "specification": "https://www.ai-visibility.org.uk/",
   "contact": "growth@digaptics.com",
@@ -21,6 +23,7 @@
     "brand": "https://digaptics.com/brand.txt",
     "faq": "https://digaptics.com/faq-ai.txt",
     "developer": "https://digaptics.com/developer-ai.txt",
+    "robotsAi": "https://digaptics.com/robots-ai.txt",
     "sitemap": "https://digaptics.com/sitemap.xml"
   }
 }

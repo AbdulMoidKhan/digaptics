@@ -1,5 +1,11 @@
-# AI Usage Permissions & Content Policy for Digaptics
-# Specification Reference: https://www.ai-visibility.org.uk/specifications/ai-txt/
+# AI Usage Permissions & Content Policy for Digaptics LLC
+# Official Specification: https://www.ai-visibility.org.uk/specifications/ai-txt/
+Business-Name: Digaptics LLC
+Brand-Name: Digaptics
+Website: https://digaptics.com/
+Contact-Email: growth@digaptics.com
+Support-Email: connect@digaptics.com
+
 User-Agent: *
 Allow-Training: Yes
 Allow-Inference: Yes
@@ -8,4 +14,6 @@ Allow-Citation: Yes
 Attribution-Required: Yes
 Attribution-Name: Digaptics
 Attribution-URL: https://digaptics.com/
-Contact: growth@digaptics.com
+
+# Summary of Services
+Digaptics LLC provides digital marketing, custom software engineering, website development, mobile application development, commercial printing, photography and videography, business process outsourcing (BPO), and enterprise ecommerce management for businesses across Chicago and nationwide.
