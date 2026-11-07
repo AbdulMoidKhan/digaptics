@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Digaptics",
+  "legalName": "Digaptics LLC",
+  "url": "https://digaptics.com/",
+  "logo": "https://digaptics.com/images/digaptics-logo.png",
+  "image": "https://digaptics.com/images/gen/home-hero.jpg",
+  "description": "Digaptics is a leading Chicago digital agency delivering end-to-end digital marketing, web and mobile app development, printing, media production, BPO, and ecommerce solutions.",
+  "email": "connect@digaptics.com",
+  "telephone": "+1-630-481-6122",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "200 South Wacker Drive, Suite 3100",
+    "addressLocality": "Chicago",
+    "addressRegion": "IL",
+    "postalCode": "60606",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.881832",
+    "longitude": "-87.636757"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "09:00",
+      "closes": "18:00"
+    }
+  ],
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Chicago"
+    },
+    {
+      "@type": "Country",
+      "name": "United States"
+    }
+  ],
+  "sameAs": [
+    "https://www.linkedin.com/company/digaptics-chicago-local-digital-web-development-firm",
+    "https://www.instagram.com/digaptics/",
+    "https://www.facebook.com/Digaptics/"
+  ]
+}

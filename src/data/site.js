@@ -10,7 +10,7 @@ import { catalogTree } from './catalog/index.js';
 export const site = {
   name: 'Digaptics',
   legalName: 'Digaptics',
-  url: 'https://digaptics.io',
+  url: 'https://digaptics.com',
   shortDescription:
     'Digaptics is a Chicago digital agency covering marketing, web and app development, design and print, photo and video, business process outsourcing and ecommerce.',
   locality: 'Chicago',

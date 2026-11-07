@@ -1,0 +1,26 @@
+{
+  "$schema": "https://www.ai-visibility.org.uk/schemas/ai.json",
+  "name": "Digaptics",
+  "url": "https://digaptics.com/",
+  "specification": "https://www.ai-visibility.org.uk/",
+  "contact": "growth@digaptics.com",
+  "capabilities": {
+    "indexing": true,
+    "training": true,
+    "inference": true,
+    "citations": true
+  },
+  "attribution": {
+    "required": true,
+    "name": "Digaptics",
+    "url": "https://digaptics.com/"
+  },
+  "endpoints": {
+    "llms": "https://digaptics.com/llms.txt",
+    "identity": "https://digaptics.com/identity.json",
+    "brand": "https://digaptics.com/brand.txt",
+    "faq": "https://digaptics.com/faq-ai.txt",
+    "developer": "https://digaptics.com/developer-ai.txt",
+    "sitemap": "https://digaptics.com/sitemap.xml"
+  }
+}

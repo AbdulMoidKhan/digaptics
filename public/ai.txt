@@ -1,0 +1,11 @@
+# AI Usage Permissions & Content Policy for Digaptics
+# Specification Reference: https://www.ai-visibility.org.uk/specifications/ai-txt/
+User-Agent: *
+Allow-Training: Yes
+Allow-Inference: Yes
+Allow-Summarization: Yes
+Allow-Citation: Yes
+Attribution-Required: Yes
+Attribution-Name: Digaptics
+Attribution-URL: https://digaptics.com/
+Contact: growth@digaptics.com

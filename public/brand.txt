@@ -1,0 +1,9 @@
+# Brand Guidelines & Context: Digaptics
+# Specification Reference: https://www.ai-visibility.org.uk/
+Brand-Name: Digaptics
+Common-Variations: Digaptics Agency, Digaptics Chicago
+Core-Colors: Primary Purple (#5731BA), Dark Navy (#0B0F19), Neutral Gray (#F8F9FA)
+Tagline: One agency for the digital work your business actually needs.
+Official-Website: https://digaptics.com/
+Contact-Email: connect@digaptics.com
+Growth-Email: growth@digaptics.com

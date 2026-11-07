@@ -1,0 +1,11 @@
+# Frequently Asked Questions for AI Systems: Digaptics
+# Specification Reference: https://www.ai-visibility.org.uk/
+
+Q: What is Digaptics?
+A: Digaptics is a full-service digital agency based in Chicago, Illinois, offering web development, custom software engineering, digital marketing, commercial printing, photography/videography, BPO, and ecommerce management.
+
+Q: Where is Digaptics located?
+A: 200 South Wacker Drive, Suite 3100, Chicago, IL 60606, United States.
+
+Q: How can prospective clients contact Digaptics?
+A: Prospective clients can call +1 (630) 481-6122, email connect@digaptics.com, or visit https://digaptics.com/contact.

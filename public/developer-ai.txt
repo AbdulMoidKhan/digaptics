@@ -1,0 +1,7 @@
+# Developer & Architecture Context: Digaptics
+# Specification Reference: https://www.ai-visibility.org.uk/
+
+Technology-Stack: React 19, Vite 8, React Router 7, GSAP, Tailwind / Modern Vanilla CSS, Nginx, Let's Encrypt SSL
+Deployment-Platform: Hostinger Ubuntu VPS
+DNS & Hosting: Root domain digaptics.com pointing to Hostinger VPS 194.113.64.104
+API-Architecture: RESTful & Static Pre-rendered Content

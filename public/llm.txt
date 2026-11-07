@@ -1,0 +1,31 @@
+# Digaptics
+
+> Chicago Digital Agency providing marketing, web & app development, design & print, photography & videography, business process outsourcing (BPO), and ecommerce solutions.
+
+- Location: 200 South Wacker Drive, Suite 3100, Chicago, IL 60606, United States
+- Website: https://digaptics.com
+- Contact Email: connect@digaptics.com
+- Management & Growth: growth@digaptics.com
+- Phone: +1 (630) 481-6122
+
+## Overview
+Digaptics is a full-service digital agency operating in Chicago and serving clients nationwide across the United States. We unify seven core disciplines under one strategic roof: Digital Marketing, Web & Custom Software Development, Printing & Physical Collateral, Photography & Videography, Business Process Outsourcing (BPO), Industry-Specific Solutions, and Enterprise Ecommerce Management.
+
+## Core Services & Families
+- Digital Marketing: SEO Audits, PPC & Paid Media Management, Social Media Management, Content Strategy, Performance Marketing, Digital Reputation Management.
+- Web & App Development: Custom Web Applications, React & Next.js Platforms, WordPress & Headless CMS, iOS & Android Mobile Apps, UI/UX Product Design, API Engineering.
+- Commercial Printing: Premium Business Cards, Large Format Signs & Banners, Marketing Collateral, Custom Packaging, Trade Show Displays & Booth Branding.
+- Photo & Videography: Commercial Brand Photography, Corporate Headshots, Product Photography, Promotional Videos, Social Media Reel Production.
+- Business Process Outsourcing (BPO): Customer Support Teams, Back-Office Administrative Operations, Data Entry, Dedicated Technical Support Staff.
+- Ecommerce Solutions: Shopify & WooCommerce Development, Amazon Store Management, Multi-Channel Marketplace Synchronization, Conversion Rate Optimization.
+- Industry Solutions: Healthcare, Legal, Coworking, Professional Services, Real Estate, Automotive, and Hospitality.
+
+## Documentation & AI Discovery
+- Conformance Specification: https://www.ai-visibility.org.uk/
+- Canonical Identity: https://digaptics.com/identity.json
+- AI Permissions: https://digaptics.com/ai.txt
+- Machine Guidance: https://digaptics.com/ai.json
+- Brand Context: https://digaptics.com/brand.txt
+- AI FAQs: https://digaptics.com/faq-ai.txt
+- Developer Context: https://digaptics.com/developer-ai.txt
+- Robots AI Policy: https://digaptics.com/robots-ai.txt
