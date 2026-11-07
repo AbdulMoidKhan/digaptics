@@ -1,0 +1,130 @@
+.about-intro {
+  display: grid;
+  gap: clamp(1.5rem, 4vw, 3rem);
+  align-items: center;
+  grid-template-columns: minmax(0, 1fr);
+}
+
+@media (min-width: 900px) {
+  .about-intro {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  }
+}
+
+.about-figure {
+  margin: 0;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+}
+
+.about-figure img {
+  display: block;
+  width: 100%;
+  height: clamp(240px, 32vw, 440px);
+  object-fit: cover;
+}
+
+.about-intro__text p {
+  color: var(--body);
+}
+
+.about-capabilities,
+.about-categories {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.about-capability {
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-start;
+  height: 100%;
+  padding: 1.25rem;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  text-decoration: none;
+  color: var(--ink);
+  transition: border-color 0.2s var(--ease), box-shadow 0.2s var(--ease);
+}
+
+.about-capability:hover,
+.about-capability:focus-visible {
+  border-color: var(--brand);
+  box-shadow: var(--shadow);
+}
+
+.about-capability__icon {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: var(--brand-tint);
+  color: var(--brand-deep);
+}
+
+.about-capability strong {
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.about-capability span span {
+  color: var(--body);
+  font-size: var(--fs-small);
+  line-height: var(--lh-body);
+}
+
+.about-category {
+  display: grid;
+  gap: 0.375rem;
+  justify-items: start;
+  height: 100%;
+  padding: 1.25rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--bg);
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.about-category:hover,
+.about-category:focus-visible {
+  border-color: var(--brand);
+  box-shadow: var(--shadow);
+}
+
+.about-category__icon {
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: var(--brand-tint);
+  color: var(--brand-deep);
+}
+
+.about-category span:last-child {
+  color: var(--muted);
+  font-size: var(--fs-small);
+}
+
+.about-where {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: minmax(0, 1fr);
+}
+
+@media (min-width: 800px) {
+  .about-where {
+    grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+    align-items: center;
+  }
+}
+
+.about-where__contact {
+  display: grid;
+  gap: 0.5rem;
+}

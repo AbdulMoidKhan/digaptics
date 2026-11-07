@@ -1,0 +1,75 @@
+{
+  "checkedAt": "2026-11-06T17:08:17.131Z",
+  "comparison": [
+    {
+      "route": "/",
+      "width": 1440,
+      "beforeHeight": 6356,
+      "afterHeight": 4252,
+      "reductionPercent": 33
+    },
+    {
+      "route": "/services",
+      "width": 1440,
+      "beforeHeight": 11150,
+      "afterHeight": 8494,
+      "reductionPercent": 24
+    },
+    {
+      "route": "/services/software-development",
+      "width": 1440,
+      "beforeHeight": 6548,
+      "afterHeight": 4774,
+      "reductionPercent": 27
+    },
+    {
+      "route": "/work",
+      "width": 1440,
+      "beforeHeight": 7160,
+      "afterHeight": 4476,
+      "reductionPercent": 37
+    },
+    {
+      "route": "/about",
+      "width": 1440,
+      "beforeHeight": 3970,
+      "afterHeight": 2664,
+      "reductionPercent": 33
+    },
+    {
+      "route": "/process",
+      "width": 1440,
+      "beforeHeight": 5956,
+      "afterHeight": 4392,
+      "reductionPercent": 26
+    },
+    {
+      "route": "/insights",
+      "width": 1440,
+      "beforeHeight": 3842,
+      "afterHeight": 2652,
+      "reductionPercent": 31
+    },
+    {
+      "route": "/contact",
+      "width": 1440,
+      "beforeHeight": 3186,
+      "afterHeight": 2486,
+      "reductionPercent": 22
+    },
+    {
+      "route": "/privacy",
+      "width": 1440,
+      "beforeHeight": 4784,
+      "afterHeight": 3734,
+      "reductionPercent": 22
+    },
+    {
+      "route": "/terms",
+      "width": 1440,
+      "beforeHeight": 4646,
+      "afterHeight": 3590,
+      "reductionPercent": 23
+    }
+  ]
+}

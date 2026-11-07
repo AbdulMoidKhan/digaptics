@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Update the host if the site is deployed elsewhere.
+Sitemap: https://digaptics.io/sitemap.xml

@@ -1,0 +1,10 @@
+# Legacy URLs from the previous build of this site.
+/services            /sitemap          301
+/work                /case-studies     301
+/insights            /blog             301
+/blogs               /blog             301
+/about-us            /about            301
+/contact-us          /contact          301
+
+# Single-page app: serve index.html for client-side routes (Netlify-style hosts).
+/*  /index.html  200
